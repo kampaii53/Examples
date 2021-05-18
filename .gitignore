@@ -1,0 +1,3 @@
+# Project exclude paths
+/example-app/target/
+/example-feign-client/target/
