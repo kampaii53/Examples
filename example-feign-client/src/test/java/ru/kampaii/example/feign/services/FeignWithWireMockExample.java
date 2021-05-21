@@ -1,4 +1,4 @@
-package ru.kampaii.services;
+package ru.kampaii.example.feign.services;
 
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
 import org.junit.Rule;
@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import ru.kampaii.config.FeignConfiguration;
-import ru.kampaii.example.clients.ExampleAppClient;
+import ru.kampaii.example.feign.clients.ExampleAppClient;
+import ru.kampaii.example.feign.config.FeignConfiguration;
 
 import java.io.IOException;
 

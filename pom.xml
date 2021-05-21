@@ -17,6 +17,7 @@
     <modules>
         <module>example-app</module>
         <module>example-feign-client</module>
+        <module>kafka-examples</module>
     </modules>
 
     <properties>

@@ -1,4 +1,4 @@
-package ru.kampaii.services;
+package ru.kampaii.example.feign.services;
 
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
 import org.apache.http.HttpResponse;

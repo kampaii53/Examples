@@ -1,9 +1,9 @@
-package ru.kampaii.example.services;
+package ru.kampaii.example.feign.services;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
-import ru.kampaii.example.clients.ExampleAppClient;
+import ru.kampaii.example.feign.clients.ExampleAppClient;
 
 @Service
 public class ExampleAppService {

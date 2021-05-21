@@ -1,4 +1,4 @@
-package ru.kampaii.example.config;
+package ru.kampaii.example.boot.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

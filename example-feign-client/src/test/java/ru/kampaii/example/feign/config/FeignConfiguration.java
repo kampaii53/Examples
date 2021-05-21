@@ -1,4 +1,4 @@
-package ru.kampaii.config;
+package ru.kampaii.example.feign.config;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.cloud.openfeign.EnableFeignClients;
